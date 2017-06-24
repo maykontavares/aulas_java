@@ -29,9 +29,7 @@ public class AndOrNot {
 		boolean resultado4 = !(a &&(b && c));
 		//System.out.println(resultado4);
 		
-		//System.out.println(a || b);
-		System.out.println(a || !b);
-		boolean resultado5 = (a|| (b ||c));
+		
 		
 	}
 	
